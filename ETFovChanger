@@ -1,2 +1,0 @@
-bind MWHEELDOWN "cg_fov 100;echo ^1(^7fov 100^1)"
-bind MWHEELUP 	"cg_fov 78;echo ^1(^7fov 78^1)"
